@@ -1,0 +1,51 @@
+[
+    {
+        "product_id": "p002",
+        "name": "laptop computer",
+        "category": "electronics",
+        "quantity": 55,
+        "price": 65000.0
+    },
+    {
+        "product_id": "P003",
+        "name": "MOBILE PHONE",
+        "category": "ELECTRONICS",
+        "quantity": 10,
+        "price": 90000.0
+    },
+    {
+        "product_id": "p004",
+        "name": "hairdryer",
+        "category": "electronics",
+        "quantity": 30,
+        "price": 50000.0
+    },
+    {
+        "product_id": "p005",
+        "name": "dryer",
+        "category": "05",
+        "quantity": 20000,
+        "price": 18000.0
+    },
+    {
+        "product_id": "p006",
+        "name": "phone",
+        "category": "electronics",
+        "quantity": 40,
+        "price": 50000.0
+    },
+    {
+        "product_id": "p007",
+        "name": "battery",
+        "category": "electrinics",
+        "quantity": 7,
+        "price": 20000.0
+    },
+    {
+        "product_id": "p003",
+        "name": "mouse",
+        "category": "electronics",
+        "quantity": 23,
+        "price": 2000.0
+    }
+]
